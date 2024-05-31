@@ -1,0 +1,11 @@
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\bin\Debug\Flappy_Bird_WINFORM.exe.config
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\bin\Debug\Flappy_Bird_WINFORM.exe
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\bin\Debug\Flappy_Bird_WINFORM.pdb
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.csproj.AssemblyReference.cache
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.Form1.resources
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.Properties.Resources.resources
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.csproj.GenerateResource.cache
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.csproj.CoreCompileInputs.cache
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.exe
+C:\Programming\School\C#\Flappy_Bird_WINFORM\Flappy_Bird_WINFORM\obj\Debug\Flappy_Bird_WINFORM.pdb
